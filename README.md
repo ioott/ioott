@@ -18,14 +18,14 @@
     
 <div align="left">    
 
-#### 💡 Sou apaixonada por _aprender_
-#### 🤨 Sou muito _curiosa_
-#### 🔥 Sou motivada por _desafios_
-#### 🛖 Vou me especializar em _antropologia_
+### 💡 Sou apaixonada por _aprender_
+### 🤨 Sou muito _curiosa_
+### 🔥 Sou motivada por _desafios_
+### 🛖 Vou me especializar em _antropologia_
     
 ##
     
-#### 🧐 Tenho muito interesse em: 
+### 🧐 Tenho muito interesse em: 
     
      💻 Programação
      📊 Ciência de Dados

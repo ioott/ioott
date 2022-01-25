@@ -33,11 +33,11 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png">
   <img align="center" alt="CSS" height="30" width="40" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png">
-  <img align="center" alt="SQL" height="30" width="25" src="https://icon-library.com/images/sql-icon/sql-icon-8.jpg">
   <img align="center" alt="Node" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_wordmark_logo_icon_146412.png">
   <img align="center" alt="Mongo" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Agille" height="30" width="40" src="https://i.pinimg.com/564x/18/eb/f4/18ebf41bbe0b8580cfed8e33141b13e2.jpg">
+  <img align="center" alt="SQL" height="30" width="25" src="https://icon-library.com/images/sql-icon/sql-icon-8.jpg">
   </div>
   
 ##

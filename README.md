@@ -9,7 +9,7 @@
 <br>
 
 - 💡 Apaixonada por aprender 
-- 🤔 Muito curiosa
+- 🧐 Muito curiosa
 - 🔥 Motivada por Desafios
 ##
 #### _Mais sobre mim:_

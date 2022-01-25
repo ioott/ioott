@@ -1,29 +1,3 @@
-## Olá 👋
-
-#### _Eu sou:_
-
-- 👩🏻‍💻 Estudante de Desenvolvimento Web Full Stack
-- 🧑🏻‍🤝‍🧑🏾 Graduanda de Ciências Sociais
-- 🏢 Gestora empresarial - MEI
-
-<br>
-
-- 💡 Apaixonada por aprender 
-- 🧐 Muito curiosa
-- 🔥 Motivada por Desafios
-##
-#### _Mais sobre mim:_
-
-- 🛖 Vou me especializar em Antropologia
-
-<br>
-
-- Tenho muito interesse em: 
-    - 💻 Programação
-    - 📊 Ciência de Dados
-    - 🛒 Antropologia do Consumo
-    - 🤖 Novas Tecnologias
-##
 <div align="center">
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -40,6 +14,25 @@
   <img align="center" alt="SQL" height="30" width="25" src="https://icon-library.com/images/sql-icon/sql-icon-8.jpg">
   </div>
   
+##
+    
+<div align="left">    
+
+- 💡 Sou apaixonada por APRENDER 
+- 🤨 Sou muito CURIOSA
+- 🔥 Sou motivada por DESAFIOS
+- 🛖 Vou me especializar em ANTROPOLOGIA
+    
+##
+    
+- 🧐 Tenho muito interesse em: 
+    
+    - 💻 Programação
+    - 📊 Ciência de Dados
+    - 🛒 Antropologia do Consumo
+    - 🤖 Novas Tecnologias
+</div>
+    
 ##
   
 <div align="center">

@@ -3,7 +3,7 @@
 <p align="center">
   ✔️ Sou brasileira, nascida no Rio de Janeiro/ RJ 🇧🇷
 </p>
-<p align="center">✔️ Estudante de <strong>Desenvolvimento Web Full Stack</strong> na Trybe, Bolsista de Iniciação Científica pelo CNPQ, Gestora Empresarial - MEI, Graduanda de Ciências Sociais na UERJ - Universidade do Estado do Rio de Janeiro e vou me especializar em <strong>Antropologia</strong>. 
+<p align="center">✔️ Estudante de <strong>Desenvolvimento Web Full Stack</strong> na Trybe, Bolsista de Iniciação Científica pelo CNPQ, na área da Antropologia Cultural, Gestora Empresarial - MEI, Graduanda de Ciências Sociais na UERJ - Universidade do Estado do Rio de Janeiro e vou me especializar em <strong>Antropologia</strong>. 
 </p>
 <p align="center">
   ✔️  Tenho muito interesse em <strong>programação</strong>, <strong>ciência de dados</strong>, <strong>antropologia do consumo</strong> e <strong>novas tecnologias</strong>. 

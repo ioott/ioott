@@ -11,7 +11,7 @@
 <p  align="center">
   ✔️  Sou apaixonada por <strong>aprender</strong> sobre tudo, muito <strong>curiosa</strong> e motivada por <strong>desafios</strong>! 
 </p>
-<h3 align="center">(Acesse meu <a href="https://ioott.github.io/">Portifólio)</a></p>
+<h4 align="center">(Acesse meu <a href="https://ioott.github.io/">Portifólio)</a></h4>
  
 ##
 <h3>🤓 Estou estudando:</h3>

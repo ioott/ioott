@@ -24,8 +24,5 @@
   <a href="https://github.com/ioott">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ioott&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
-
-  ##
-  ![Snake animation](https://github.com/ioott/ioott/blob/output/github-contribution-grid-snake.svg)
  
 </div>

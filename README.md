@@ -1,19 +1,3 @@
-<h1 id="início">Vania Ioott</h1>
-<h3>👋 Um pouco sobre mim:</h3>
-<p align="center">
-  ✔️ Sou brasileira, nascida no Rio de Janeiro/ RJ 🇧🇷
-</p>
-<p align="center">✔️ Estudante de <strong>Desenvolvimento Web Full Stack</strong> na Trybe, Bolsista de Iniciação Científica pelo CNPQ, na área da Antropologia Cultural, Gestora Empresarial - MEI, Graduanda de Ciências Sociais na UERJ - Universidade do Estado do Rio de Janeiro e vou me especializar em <strong>Antropologia</strong>. 
-</p>
-<p align="center">
-  ✔️  Tenho muito interesse em <strong>programação</strong>, <strong>ciência de dados</strong>, <strong>antropologia do consumo</strong> e <strong>novas tecnologias</strong>. 
-</p>
-<p  align="center">
-  ✔️  Sou apaixonada por <strong>aprender</strong> sobre tudo, muito <strong>curiosa</strong> e motivada por <strong>desafios</strong>! 
-</p>
- 
-##
-<h3>🤓 Estou estudando:</h3>
 <div align="center">
   <div style="display: inline_block"><br> 
   <img align="center" alt="Ubuntu" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/518/518713.png">

@@ -1,6 +1,7 @@
-<table>
+<table align="center">
   <tr>
      <td valign="top">
+       <br/>
       <div align="center">
         <div style="display: inline_block"><br> 
           <img align="center" alt="Linux" height="30" width="70" src="https://img.shields.io/badge/LINUX-ff69b4">
@@ -20,12 +21,17 @@
           <img align="center" alt="Styled Components" height="30" width="140" src="https://img.shields.io/badge/STYLED COMPONENTS-ff69b4">
           <img align="center" alt="Agille" height="30" width="60" src="https://img.shields.io/badge/AGILLE-red">
     </div>
+        <br/><br/>
     </td>
-     <td valign="top">
-      <div align="center">
-        <a href="https://github.com/ioott">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ioott&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-      </div>
-    </td>
+  </tr>  
+  <tr>
+    <td valign="top">
+      <br/><br/>
+     <div align="center">
+       <a href="https://github.com/ioott">
+       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ioott&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+     </div>
+       <br/><br/>
+   </td>
   </tr>  
 </table>

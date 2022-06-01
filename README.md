@@ -1,20 +1,21 @@
 <div align="center">
   <div style="display: inline_block"><br> 
-  <img align="center" alt="Ubuntu" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/518/518713.png">
-  <img align="center" alt="Git" height="30" width="55" src="https://i1.wp.com/excelcult.com/wp-content/uploads/2019/10/2color-lightbg@2x.png?w=588&ssl=1">
-  <img align="center" alt="GitHub" height="30" width="55" src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Logo-700x394.png">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Redux" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png">  
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Docker" height="30" width="40" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png">
-  <img align="center" alt="Node" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_wordmark_logo_icon_146412.png">
-  <img align="center" alt="Mongo" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="SQL" height="30" width="25" src="https://icon-library.com/images/sql-icon/sql-icon-8.jpg">
-  <img align="center" alt="Agille" height="30" width="40" src="https://i.pinimg.com/564x/18/eb/f4/18ebf41bbe0b8580cfed8e33141b13e2.jpg">
+  <img align="center" alt="Linux" height="30" width="70" src="https://img.shields.io/badge/LINUX-ff69b4">
+  <img align="center" alt="GitHub" height="30" width="70" src="https://img.shields.io/badge/GITHUB-white">
+  <img align="center" alt="HTML" height="30" width="60" src="https://img.shields.io/badge/HTML-red">
+  <img align="center" alt="Js" height="30" width="100" src="https://img.shields.io/badge/JAVA SCRIPT-yellow">
+  <img align="center" alt="React" height="30" width="60" src="https://img.shields.io/badge/REACT-blue">
+  <img align="center" alt="Redux" height="30" width="60" src="https://img.shields.io/badge/REDUX-blueviolet"><br/><br/> 
+  <img align="center" alt="Ts" height="30" width="100" src="https://img.shields.io/badge/TYPE SCRIPT-white">
+  <img align="center" alt="Docker" height="30" width="70" src="https://img.shields.io/badge/DOCKER-blue">
+  <img align="center" alt="Node" height="30" width="60" src="https://img.shields.io/badge/NODE-lightgray">
+  <img align="center" alt="Mongo" height="30" width="70" src="https://img.shields.io/badge/MONGO-success">
+  <img align="center" alt="Python" height="30" width="70" src="https://img.shields.io/badge/PYTHON-yellow">
+  <img align="center" alt="SQL" height="30" width="40" src="https://img.shields.io/badge/SQL-blue"><br/><br/>
+  <img align="center" alt="CSS" height="30" width="50" src="https://img.shields.io/badge/CSS-blue">
+  <img align="center" alt="Tailwind" height="30" width="90" src="https://img.shields.io/badge/TAILWIND-success">
+  <img align="center" alt="Styled Components" height="30" width="140" src="https://img.shields.io/badge/STYLED COMPONENTS-ff69b4">
+  <img align="center" alt="Agille" height="30" width="60" src="https://img.shields.io/badge/AGILLE-red">
 </div>
 <br>
  

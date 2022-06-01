@@ -11,7 +11,8 @@
 <p  align="center">
   ✔️  Sou apaixonada por <strong>aprender</strong> sobre tudo, muito <strong>curiosa</strong> e motivada por <strong>desafios</strong>! 
 </p>
-
+<h3 align="center">(Acesse meu <a href="https://ioott.github.io/">Portifólio)</a></p>
+ 
 ##
 <h3>🤓 Estou estudando:</h3>
 <div align="center">
@@ -34,7 +35,7 @@
   <img align="center" alt="Agille" height="30" width="40" src="https://i.pinimg.com/564x/18/eb/f4/18ebf41bbe0b8580cfed8e33141b13e2.jpg">
 </div>
 <br>
-    
+ 
 ##
 <br>
 <div align="center">

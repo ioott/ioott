@@ -25,7 +25,7 @@
 <div align="center">
   <span>
      <a href="https://github.com/ioott">
-     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ioott&count_private=true&show_icons=true&include_all_commits=true&theme=chartreuse-dark"/>
-     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ioott&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ioott&count_private=true&show_icons=true&include_all_commits=true&theme=chartreuse-dark"/>
+     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ioott&layout=compact&langs_count=7&theme=chartreuse-dark"/>
   </span>
 </div>

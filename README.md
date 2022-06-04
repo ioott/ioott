@@ -12,7 +12,14 @@
   <img alt="Hooks" src="https://img.shields.io/badge/-Hooks-black?style=flat-square&logo=react">
   <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-black?style=flat-square&logo=ESLint">
   <img alt="Jest" src="https://img.shields.io/badge/-Jest-black?style=flat-square&logo=Jest">
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript">
+</div>
+<br/>
+<div align="left">
+Estudando:
+</div>
+<br />
+<div align="center">
+ <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript">
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker">
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js">
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb">
@@ -21,11 +28,9 @@
 </div>
 
 ##
-<br/>
 <div align="center">
   <span>
      <a href="https://github.com/ioott">
-     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ioott&count_private=true&show_icons=true&include_all_commits=true&theme=chartreuse-dark"/>
      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ioott&layout=compact&langs_count=7&theme=chartreuse-dark"/>
   </span>
 </div>

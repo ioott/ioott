@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <img alt="VS Code" src="https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code">
   <img alt="Git" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git">
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github">
@@ -18,7 +18,7 @@
 Estudando:
 </div>
 <br />
-<div align="center">
+<div align="left">
  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript">
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker">
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js">

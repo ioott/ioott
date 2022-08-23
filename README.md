@@ -15,7 +15,10 @@
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker">
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js">
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-black?style=flat-square&logo=MySQL">
+  <img alt="Sequelize" src="https://img.shields.io/badge/-Sequelize-black?style=flat-square&logo=Sequelize">
+  <img alt="MSC" src="https://img.shields.io/badge/-Arquitetura em Camadas (MSC)-black?style=flat-square&logo=MSC">
   <br/>
+  <img alt="RTL" src="https://img.shields.io/badge/-RTL-black?style=flat-square&logo=RTL">
   <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-black?style=flat-square&logo=ESLint">
   <img alt="Jest" src="https://img.shields.io/badge/-Jest-black?style=flat-square&logo=Jest">
 </div>

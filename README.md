@@ -21,6 +21,7 @@
   <img alt="RTL" src="https://img.shields.io/badge/-RTL-black?style=flat-square&logo=RTL">
   <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-black?style=flat-square&logo=ESLint">
   <img alt="Jest" src="https://img.shields.io/badge/-Jest-black?style=flat-square&logo=Jest">
+  <img alt="MSC" src="https://img.shields.io/badge/-Testes Unitários e de Integração, com Mocha, Chai e Sinon-black?style=flat-square&logo=MSC">
 </div>
 <br/>
 <div align="left">

@@ -14,6 +14,7 @@
   <br/>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker">
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js">
+  <img alt="Express" src="https://img.shields.io/badge/-Express-black?style=flat-square&logo=Express">
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript">
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-black?style=flat-square&logo=MySQL">
   <img alt="Sequelize" src="https://img.shields.io/badge/-Sequelize-black?style=flat-square&logo=Sequelize">

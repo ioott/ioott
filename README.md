@@ -52,10 +52,10 @@
 
 <p align="center">
 <a href="https://github.com/ioott/BackEnd-Typescript-POO">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=ioott&repo=BackEnd-Typescript-POO&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=ioott&repo=BackEnd-Typescript-POO&border_color=007ACC&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 <a href="https://github.com/ioott/BackEnd-Typescript-API-Node-Express-MySql">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=ioott&repo=BackEnd-Typescript-API-Node-Express-MySql&border_color=000000&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=ioott&repo=BackEnd-Typescript-API-Node-Express-MySql&border_color=007ACC&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 </p>
 

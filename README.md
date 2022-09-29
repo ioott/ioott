@@ -1,6 +1,6 @@
 <img width="1000" alt="header_1" src="https://user-images.githubusercontent.com/98191041/192663501-eed4107b-9009-4c8b-ac09-9d396c13c608.png">
 
-## 💪 Staks:
+# 💪 Staks:
   
 <div align="left">
   <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />  
@@ -30,7 +30,7 @@
 </div>
 <br/>
 
-## 🌱 Estudando:
+# 🌱 Estudando:
 
 <div align="left">
   <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />
@@ -38,7 +38,7 @@
 </div>
 <br/>
 
-## 🕵️ Me encontre:
+# 🕵️ Me encontre:
 
 <div align="left">
    <a href="https://www.linkedin.com/in/vania-ioott/" target="_blank">
@@ -50,7 +50,7 @@
 </div>
 <br/>
 
-## 💻 Alguns projetos:
+# 💻 Alguns projetos:
 
 <p align="center">
   <a href="https://github.com/ioott/BackEnd-Typescript-POO">

@@ -1,3 +1,5 @@
+<img width="1000" alt="header_1" src="https://user-images.githubusercontent.com/98191041/192663501-eed4107b-9009-4c8b-ac09-9d396c13c608.png">
+
 ## 💪 Staks:
   
 <div align="left">
@@ -51,31 +53,33 @@
 ## 💻 Alguns projetos:
 
 <p align="center">
-<a href="https://github.com/ioott/BackEnd-Typescript-POO">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=ioott&repo=BackEnd-Typescript-POO&border_color=007ACC&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=007ACC" />
-</a>
-<a href="https://github.com/ioott/BackEnd-Typescript-API-Node-Express-MySql">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=ioott&repo=BackEnd-Typescript-API-Node-Express-MySql&border_color=007ACC&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=007ACC" />
-</a>
+  <a href="https://github.com/ioott/BackEnd-Typescript-POO">
+    <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=ioott&repo=BackEnd-Typescript-POO&border_color=007ACC&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=007ACC" />
+  </a>
+  <a href="https://github.com/ioott/BackEnd-Typescript-API-Node-Express-MySql">
+    <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=ioott&repo=BackEnd-Typescript-API-Node-Express-MySql&border_color=007ACC&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=007ACC" />
+  </a>
 </p>
 <p align="center">
-<a href="https://github.com/ioott/BackEnd-API-de-blogs-Node-ORM-JWT-Sequelize">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=ioott&repo=BackEnd-API-de-blogs-Node-ORM-JWT-Sequelize&border_color=007ACC&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=007ACC" />
-</a>
-<a href="https://github.com/ioott/My-Wallet-Front-End">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=ioott&repo=My-Wallet-Front-End&border_color=007ACC&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=007ACC" />
-</a>
+  <a href="https://github.com/ioott/BackEnd-API-de-blogs-Node-ORM-JWT-Sequelize">
+    <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=ioott&repo=BackEnd-API-de-blogs-Node-ORM-JWT-Sequelize&border_color=007ACC&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=007ACC" />
+  </a>
+  <a href="https://github.com/ioott/My-Wallet-Front-End">
+    <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=ioott&repo=My-Wallet-Front-End&border_color=007ACC&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=007ACC" />
+  </a>
 </p>
 
 ##
+
 <br/>
+
 <div align="center">
   <span>
      <a href="https://github.com/ioott">
-     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ioott&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+      <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ioott&layout=compact&langs_count=7&theme=chartreuse-dark"/>
   </span>
 </div>
 
-##
-<br/>
-<img width="1000" alt="header_1" src="https://user-images.githubusercontent.com/98191041/192663501-eed4107b-9009-4c8b-ac09-9d396c13c608.png">
+# 👋 Bye!
+
+![4086](https://user-images.githubusercontent.com/98191041/192920282-e201b4af-3222-4485-9fd0-f61f2e3395f0.gif)

@@ -80,7 +80,3 @@
   </span>
   <img width='29%' height="230em" src="https://www.megamensagens.com/upload/4212.gif">
 </div>
-
-<div align="center">
-  ![Snake animation](https://github.com/ioott/ioott/blob/output/github-contribution-grid-snake.svg)
-</div>

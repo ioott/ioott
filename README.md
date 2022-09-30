@@ -76,10 +76,11 @@
 <div align="center">
   <span>
      <a href="https://github.com/ioott">
-      <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ioott&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+      <img width='49%' height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ioott&layout=compact&langs_count=7&theme=chartreuse-dark"/>
   </span>
+  <img width='29%' height="230em" src="https://www.megamensagens.com/upload/4212.gif">
 </div>
 
-# 👋 Bye!
-
-![4086](https://user-images.githubusercontent.com/98191041/192920282-e201b4af-3222-4485-9fd0-f61f2e3395f0.gif)
+<div align="center">
+  ![Snake animation](https://github.com/ioott/ioott/blob/output/github-contribution-grid-snake.svg)
+</div>

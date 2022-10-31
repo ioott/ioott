@@ -17,7 +17,6 @@
 <br/>
   <img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=3178C6" alt="Docker logo" title="Docker" height="25" />   
   <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />
-  <img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" />  
   <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />
   <img src="https://img.shields.io/badge/MySql-282C34?logo=mysql&logoColor=3178C6" alt="MySql logo" title="MySql" height="25" />  
   <img src="https://img.shields.io/badge/Sequelize-282C34?logo=sequelize&logoColor=3178C6" alt="MySql logo" title="MySql" height="25" />    

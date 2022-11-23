@@ -17,22 +17,29 @@
 <br/>
   <img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=3178C6" alt="Docker logo" title="Docker" height="25" />   
   <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />
+  <img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=339933" alt="Express logo" title="Express" height="25" />
   <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />
   <img src="https://img.shields.io/badge/MySql-282C34?logo=mysql&logoColor=3178C6" alt="MySql logo" title="MySql" height="25" />  
-  <img src="https://img.shields.io/badge/Sequelize-282C34?logo=sequelize&logoColor=3178C6" alt="MySql logo" title="MySql" height="25" />    
+  <img src="https://img.shields.io/badge/Sequelize-282C34?logo=sequelize&logoColor=3178C6" alt="MySql logo" title="MySql" height="25" /> 
+  <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />
+  <img src="https://img.shields.io/badge/Mongoose-282C34?logo=mongoose&logoColor=47A248" alt="Mongoose logo" title="Mongoose" height="25" />
 <br/>
   <img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" />
   <img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21325" alt="Jest logo" title="Jest" height="25" />
+  <img src="https://img.shields.io/badge/Mocha-282C34?logo=mocha&logoColor=C21325" alt="Mocha logo" title="Mocha" height="25" />
+  <img src="https://img.shields.io/badge/Chai-282C34?logo=chai&logoColor=C21325" alt="Chai logo" title="Chai" height="25" />
+  <img src="https://img.shields.io/badge/Sinon-282C34?logo=sinon&logoColor=C21325" alt="Sinon logo" title="Sinon" height="25" />
   <img src="https://img.shields.io/badge/MSC(Arquitetura em Camadas)-282C34?logo=msc&logoColor=47A248" alt="MSC logo" title="MSC" height="25" />
   <img src="https://img.shields.io/badge/POO-282C34?logo=poo&logoColor=47A248" alt="POO logo" title="POO" height="25" />
   <img src="https://img.shields.io/badge/SOLID-282C34?logo=solid&logoColor=47A248" alt="SOLID logo" title="SOLID" height="25" />
+  <img src="https://img.shields.io/badge/TDD-282C34?logo=tdd&logoColor=47A248" alt="TDD logo" title="TDD" height="25" />
+  <img src="https://img.shields.io/badge/BDD-282C34?logo=bdd&logoColor=47A248" alt="BDD logo" title="BDD" height="25" />
 </div>
 <br/>
 
 # 🌱 Estudando:
 
 <div align="left">
-  <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />
   <img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=007ACC" alt="Python logo" title="Python" height="25" />
 </div>
 <br/>

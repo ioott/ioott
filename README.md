@@ -6,6 +6,9 @@
   <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />  
   <img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
   <img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=000000" alt="git logo" title="git" height="25" />
+  <img src="https://img.shields.io/badge/Scrum-282C34?logo=scrum&logoColor=007ACC" alt="Scrum logo" title="scrum" height="25" />  
+  <img src="https://img.shields.io/badge/JIRA-282C34?logo=jira&logoColor=F05032" alt="Jira logo" title="jira" height="25" />
+  <img src="https://img.shields.io/badge/Trello-282C34?logo=trello&logoColor=000000" alt="git logo" title="trello" height="25" />
 <br/>
   <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
   <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />

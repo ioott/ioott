@@ -44,6 +44,7 @@
 
 <div align="left">
   <img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=007ACC" alt="Python logo" title="Python" height="25" />
+  <img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=007ACC" alt="Java logo" title="Java" height="25" />
 </div>
 <br/>
 

@@ -7,13 +7,11 @@
   <img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
   <img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=000000" alt="git logo" title="git" height="25" />
   <img src="https://img.shields.io/badge/Scrum-282C34?logo=scrum&logoColor=007ACC" alt="Scrum logo" title="scrum" height="25" />  
-  <img src="https://img.shields.io/badge/JIRA-282C34?logo=jira&logoColor=F05032" alt="Jira logo" title="jira" height="25" />
   <img src="https://img.shields.io/badge/Trello-282C34?logo=trello&logoColor=000000" alt="git logo" title="trello" height="25" />
 <br/>
   <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
   <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
   <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />
   <img src="https://img.shields.io/static/v1?label=&message=styled-components&color=282C34&logo=styled-components&logoColor=DB7093" alt="styled-components logo" title="styled-components" height="25" />  
   <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />
   <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />  
@@ -32,11 +30,9 @@
   <img src="https://img.shields.io/badge/Mocha-282C34?logo=mocha&logoColor=C21325" alt="Mocha logo" title="Mocha" height="25" />
   <img src="https://img.shields.io/badge/Chai-282C34?logo=chai&logoColor=C21325" alt="Chai logo" title="Chai" height="25" />
   <img src="https://img.shields.io/badge/Sinon-282C34?logo=sinon&logoColor=C21325" alt="Sinon logo" title="Sinon" height="25" />
-  <img src="https://img.shields.io/badge/MSC(Arquitetura em Camadas)-282C34?logo=msc&logoColor=47A248" alt="MSC logo" title="MSC" height="25" />
   <img src="https://img.shields.io/badge/POO-282C34?logo=poo&logoColor=47A248" alt="POO logo" title="POO" height="25" />
   <img src="https://img.shields.io/badge/SOLID-282C34?logo=solid&logoColor=47A248" alt="SOLID logo" title="SOLID" height="25" />
   <img src="https://img.shields.io/badge/TDD-282C34?logo=tdd&logoColor=47A248" alt="TDD logo" title="TDD" height="25" />
-  <img src="https://img.shields.io/badge/BDD-282C34?logo=bdd&logoColor=47A248" alt="BDD logo" title="BDD" height="25" />
 </div>
 <br/>
 
@@ -44,7 +40,6 @@
 
 <div align="left">
   <img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=007ACC" alt="Python logo" title="Python" height="25" />
-  <img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=007ACC" alt="Java logo" title="Java" height="25" />
 </div>
 <br/>
 

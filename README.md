@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />  
   <img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
   <img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=000000" alt="git logo" title="git" height="25" />
-  <img src="https://img.shields.io/badge/Scrum-282C34?logo=scrum&logoColor=007ACC" alt="Scrum logo" title="scrum" height="25" />  
+  <img src="https://img.shields.io/badge/Scrum-282C34?logo=scrum&logoColor=007ACC" alt="Scrum" title="scrum" height="25" />  
   <img src="https://img.shields.io/badge/Trello-282C34?logo=trello&logoColor=000000" alt="git logo" title="trello" height="25" />
 <br/>
   <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
@@ -23,16 +23,16 @@
   <img src="https://img.shields.io/badge/MySql-282C34?logo=mysql&logoColor=3178C6" alt="MySql logo" title="MySql" height="25" />  
   <img src="https://img.shields.io/badge/Sequelize-282C34?logo=sequelize&logoColor=3178C6" alt="MySql logo" title="MySql" height="25" /> 
   <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />
-  <img src="https://img.shields.io/badge/Mongoose-282C34?logo=mongoose&logoColor=47A248" alt="Mongoose logo" title="Mongoose" height="25" />
+  <img src="https://img.shields.io/badge/Mongoose-282C34?logo=mongodb&logoColor=47A248" alt="Mongoose" title="Mongoose" height="25" />
 <br/>
   <img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" />
   <img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21325" alt="Jest logo" title="Jest" height="25" />
   <img src="https://img.shields.io/badge/Mocha-282C34?logo=mocha&logoColor=C21325" alt="Mocha logo" title="Mocha" height="25" />
   <img src="https://img.shields.io/badge/Chai-282C34?logo=chai&logoColor=C21325" alt="Chai logo" title="Chai" height="25" />
-  <img src="https://img.shields.io/badge/Sinon-282C34?logo=sinon&logoColor=C21325" alt="Sinon logo" title="Sinon" height="25" />
-  <img src="https://img.shields.io/badge/POO-282C34?logo=poo&logoColor=47A248" alt="POO logo" title="POO" height="25" />
+  <img src="https://img.shields.io/badge/Sinon-282C34?logo=sinon&logoColor=C21325" alt="Sinon" title="Sinon" height="25" />
+  <img src="https://img.shields.io/badge/POO-282C34?logo=poo&logoColor=47A248" alt="POO" title="POO" height="25" />
   <img src="https://img.shields.io/badge/SOLID-282C34?logo=solid&logoColor=47A248" alt="SOLID logo" title="SOLID" height="25" />
-  <img src="https://img.shields.io/badge/TDD-282C34?logo=tdd&logoColor=47A248" alt="TDD logo" title="TDD" height="25" />
+  <img src="https://img.shields.io/badge/TDD-282C34?logo=tdd&logoColor=47A248" alt="TDD" title="TDD" height="25" />
 </div>
 <br/>
 
@@ -40,6 +40,9 @@
 
 <div align="left">
   <img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=007ACC" alt="Python logo" title="Python" height="25" />
+  <img src="https://img.shields.io/badge/Ciência da Computação-282C34?logo=ciencecomputer&logoColor=007ACC" alt="Ciência da Computação" title="Ciência da Computação" height="25" />
+  <img src="https://img.shields.io/badge/Cyber Security-282C34?logo=cybersecurity&logoColor=007ACC" alt="Cyber Security" title="Cyber Security" height="25" />
+  <img src="https://img.shields.io/badge/Inglês-282C34?logo=english&logoColor=007ACC" alt="Inglês" title="Inglês" height="25" />
 </div>
 <br/>
 

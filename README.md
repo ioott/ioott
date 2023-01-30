@@ -40,6 +40,9 @@
 
 <div align="left">
   <img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=007ACC" alt="Python logo" title="Python" height="25" />
+  <img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=007ACC" alt="Java" title="Java" height="25" />
+  <img src="https://img.shields.io/badge/JQuery-282C34?logo=jquery&logoColor=007ACC" alt="JQuery logo" title="JQuery" height="25" />
+  <img src="https://img.shields.io/badge/Angular-282C34?logo=angular&logoColor=007ACC" alt="Angular logo" title="Python" height="25" />
   <img src="https://img.shields.io/badge/Ciência da Computação-282C34?logo=ciencecomputer&logoColor=007ACC" alt="Ciência da Computação" title="Ciência da Computação" height="25" />
   <img src="https://img.shields.io/badge/Cyber Security-282C34?logo=cybersecurity&logoColor=007ACC" alt="Cyber Security" title="Cyber Security" height="25" />
   <img src="https://img.shields.io/badge/Inglês-282C34?logo=english&logoColor=007ACC" alt="Inglês" title="Inglês" height="25" />

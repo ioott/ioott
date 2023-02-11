@@ -110,7 +110,6 @@
 ##
 
 <br/>
-<br/>
 
 <div align="center">
   <span>

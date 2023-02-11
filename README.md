@@ -1,4 +1,10 @@
-<img width="1000" alt="header_1" src="https://user-images.githubusercontent.com/98191041/192663501-eed4107b-9009-4c8b-ac09-9d396c13c608.png">
+<br/>
+<br/>
+<br/>
+
+<div align="center" >
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3500&pause=1000&color=F7F7F7&width=750&height=60&lines=Hello!+I'm+Vania!+Nice+to+meet+you!" alt="Open to work" /></a>
+</div>
 <br/>
 
 ## 💪  Stacks:
@@ -80,22 +86,6 @@
 </div>
 <br/>
 
-## 🧐  Me encontre:
-<div align="center">
-    <p align="center">
-        <a href="https://www.linkedin.com/in/felps/">
-            <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="50" height="50" />
-        </a>
-        <a href="mailto:felipmartins94@gmail.com">
-            <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="50" height="50" />
-        </a>
-        <a href="https://wa.me/5531994702122">
-            <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" width="50" height="50" />
-        </a>
-    </p>
-</div>
-<br/>
-
 ## 💻  Alguns projetos:
 <br/>
 <br/>
@@ -130,3 +120,21 @@
   <img width='29%' height="230em" src="https://www.megamensagens.com/upload/4212.gif">
 </div>
 <br/>
+
+##
+  
+<br/>
+<br/>
+<div align="center">
+    <p align="center">
+        <a href="https://www.linkedin.com/in/vania-ioott/">
+            <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="50" height="50" />
+        </a>
+        <a href="mailto:vioott@gmail.com">
+            <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="50" height="50" />
+        </a>
+        <a href="https://wa.me/5521999732102">
+            <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" width="50" height="50" />
+        </a>
+    </p>
+</div>

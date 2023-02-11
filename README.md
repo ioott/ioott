@@ -1,68 +1,104 @@
 <img width="1000" alt="header_1" src="https://user-images.githubusercontent.com/98191041/192663501-eed4107b-9009-4c8b-ac09-9d396c13c608.png">
+<br/>
 
-# 💪 Staks:
+## 💪  Stacks:
   
-<div align="left">
-  <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />  
-  <img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
-  <img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=000000" alt="git logo" title="git" height="25" />
-  <img src="https://img.shields.io/badge/Scrum-282C34?logo=scrum&logoColor=007ACC" alt="Scrum" title="scrum" height="25" />  
-  <img src="https://img.shields.io/badge/Trello-282C34?logo=trello&logoColor=000000" alt="git logo" title="trello" height="25" />
-<br/>
-  <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
-  <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
-  <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
-  <img src="https://img.shields.io/static/v1?label=&message=styled-components&color=282C34&logo=styled-components&logoColor=DB7093" alt="styled-components logo" title="styled-components" height="25" />  
-  <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />
-  <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />  
-<br/>
-  <img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=3178C6" alt="Docker logo" title="Docker" height="25" />   
-  <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />
-  <img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=339933" alt="Express logo" title="Express" height="25" />
-  <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />
-  <img src="https://img.shields.io/badge/MySql-282C34?logo=mysql&logoColor=3178C6" alt="MySql logo" title="MySql" height="25" />  
-  <img src="https://img.shields.io/badge/Sequelize-282C34?logo=sequelize&logoColor=3178C6" alt="MySql logo" title="MySql" height="25" /> 
-  <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />
-  <img src="https://img.shields.io/badge/Mongoose-282C34?logo=mongodb&logoColor=47A248" alt="Mongoose" title="Mongoose" height="25" />
-<br/>
-  <img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" />
-  <img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21325" alt="Jest logo" title="Jest" height="25" />
-  <img src="https://img.shields.io/badge/Mocha-282C34?logo=mocha&logoColor=C21325" alt="Mocha logo" title="Mocha" height="25" />
-  <img src="https://img.shields.io/badge/Chai-282C34?logo=chai&logoColor=C21325" alt="Chai logo" title="Chai" height="25" />
-  <img src="https://img.shields.io/badge/Sinon-282C34?logo=sinon&logoColor=C21325" alt="Sinon" title="Sinon" height="25" />
-  <img src="https://img.shields.io/badge/POO-282C34?logo=poo&logoColor=47A248" alt="POO" title="POO" height="25" />
-  <img src="https://img.shields.io/badge/SOLID-282C34?logo=solid&logoColor=47A248" alt="SOLID logo" title="SOLID" height="25" />
-  <img src="https://img.shields.io/badge/TDD-282C34?logo=tdd&logoColor=47A248" alt="TDD" title="TDD" height="25" />
+<div align="center">
+    <p>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=vscode" />
+        </a>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=html" />
+        </a>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=css" />
+        </a>
+        <a href="https://github.com">
+            <img src="https://skillicons.dev/icons?i=styledcomponents" />
+        </a>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=react" />
+        </a>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=redux" />
+        </a>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=js" />
+        </a>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=jest" />
+        </a>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=nodejs" />
+        </a>
+        <a href="https://aws.amazon.com/pt/">
+            <img src="https://skillicons.dev/icons?i=express" />
+        </a>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=ts" />
+        </a>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=selenium" />
+        </a>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=docker" />
+        </a>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=mysql" />
+        </a>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=sequelize" />
+        </a>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=mongodb" />
+        </a>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=fastapi" />
+        </a>
+    </p>
 </div>
 <br/>
 
-# 🌱 Estudando:
+## 🌱  Estudando:
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=007ACC" alt="Python logo" title="Python" height="25" />
-  <img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=007ACC" alt="Java" title="Java" height="25" />
-  <img src="https://img.shields.io/badge/JQuery-282C34?logo=jquery&logoColor=007ACC" alt="JQuery logo" title="JQuery" height="25" />
-  <img src="https://img.shields.io/badge/Angular-282C34?logo=angular&logoColor=007ACC" alt="Angular logo" title="Python" height="25" />
-  <img src="https://img.shields.io/badge/Ciência da Computação-282C34?logo=ciencecomputer&logoColor=007ACC" alt="Ciência da Computação" title="Ciência da Computação" height="25" />
-  <img src="https://img.shields.io/badge/Cyber Security-282C34?logo=cybersecurity&logoColor=007ACC" alt="Cyber Security" title="Cyber Security" height="25" />
-  <img src="https://img.shields.io/badge/Inglês-282C34?logo=english&logoColor=007ACC" alt="Inglês" title="Inglês" height="25" />
+<div align="center">
+    <p>
+        <a href="https://www.python.org">
+            <img src="https://skillicons.dev/icons?i=py" />
+        </a>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=java" />
+        </a>
+        <a href="https://www.python.org">
+            <img src="https://skillicons.dev/icons?i=jquery" />
+        </a>
+        <a href="https://docs.djangoproject.com/en/4.1/">
+            <img src="https://skillicons.dev/icons?i=angular" />
+        </a>
+    </p>
 </div>
 <br/>
 
-# 🕵️ Me encontre:
-
-<div align="left">
-   <a href="https://www.linkedin.com/in/vania-ioott/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=007ACC" alt="LinkedIn logo" title="LinkedIn" height="25" />
-  </a>
-  <a href="mailto:vioott@gmail.com" mailto="vioott@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-282C34?logo=gmail&logoColor=C21325" alt="Gmail logo" title="Gmail" height="25" />
-  </a>
+## 🧐  Me encontre:
+<div align="center">
+    <p align="center">
+        <a href="https://www.linkedin.com/in/felps/">
+            <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="50" height="50" />
+        </a>
+        <a href="mailto:felipmartins94@gmail.com">
+            <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="50" height="50" />
+        </a>
+        <a href="https://wa.me/5531994702122">
+            <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" width="50" height="50" />
+        </a>
+    </p>
 </div>
 <br/>
 
-# 💻 Alguns projetos:
-
+## 💻  Alguns projetos:
+<br/>
+<br/>
 <p align="center">
   <a href="https://github.com/ioott/FullStack-CRUD-Typescript-ORM-TDD-POO">
     <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=ioott&repo=FullStack-CRUD-Typescript-ORM-TDD-POO&border_color=007ACC&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=107ACC" />
@@ -79,9 +115,11 @@
     <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=ioott&repo=BackEnd-Typescript-POO&border_color=007ACC&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=007ACC" />
   </a>
 </p>
+<br/>
 
 ##
 
+<br/>
 <br/>
 
 <div align="center">
@@ -91,3 +129,4 @@
   </span>
   <img width='29%' height="230em" src="https://www.megamensagens.com/upload/4212.gif">
 </div>
+<br/>

@@ -93,16 +93,16 @@
   <a href="https://github.com/ioott/FullStack-CRUD-Typescript-ORM-TDD-POO">
     <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=ioott&repo=FullStack-CRUD-Typescript-ORM-TDD-POO&border_color=007ACC&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=107ACC" />
   </a>
-  <a href="https://github.com/ioott/BackEnd-Typescript-API-Node-Express-MySql">
-    <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=ioott&repo=BackEnd-Typescript-API-Node-Express-MySql&border_color=007ACC&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=007ACC" />
-  </a>
+  <a href="https://github.com/ioott/Full-Stack-Node-Express-ORM-React-Jest">
+    <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=ioott&repo=Full-Stack-Node-Express-ORM-React-Jest&border_color=007ACC&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=007ACC" />
+  </a> 
 </p>
 <p align="center">
-  <a href="https://github.com/ioott/BackEnd-API-de-blogs-Node-ORM-JWT-Sequelize">
-    <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=ioott&repo=BackEnd-API-de-blogs-Node-ORM-JWT-Sequelize&border_color=007ACC&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=007ACC" />
+  <a href="https://github.com/ioott/BackEnd-Python-Pytest-POO-SOLID">
+    <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=ioott&repo=BackEnd-Python-Pytest-POO-SOLID&border_color=007ACC&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=007ACC" />
   </a>
-  <a href="https://github.com/ioott/BackEnd-Typescript-POO">
-    <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=ioott&repo=BackEnd-Typescript-POO&border_color=007ACC&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=007ACC" />
+  <a href="https://github.com/ioott/BackEnd-CRUD-API-Typescript-MongoDb-POO">
+    <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=ioott&repo=BackEnd-CRUD-API-Typescript-MongoDb-POO&border_color=007ACC&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=007ACC" />
   </a>
 </p>
 <br/>

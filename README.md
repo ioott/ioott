@@ -86,26 +86,123 @@
 </div>
 <br/>
 
-## 💻  Alguns projetos:
-<br/>
-<br/>
-<p align="center">
-  <a href="https://github.com/ioott/FullStack-CRUD-Typescript-ORM-TDD-POO">
-    <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=ioott&repo=FullStack-CRUD-Typescript-ORM-TDD-POO&border_color=007ACC&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=107ACC" />
-  </a>
-  <a href="https://github.com/ioott/Full-Stack-Node-Express-ORM-React-Jest">
-    <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=ioott&repo=Full-Stack-Node-Express-ORM-React-Jest&border_color=007ACC&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=007ACC" />
-  </a> 
-</p>
-<p align="center">
-  <a href="https://github.com/ioott/BackEnd-Python-Pytest-POO-SOLID">
-    <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=ioott&repo=BackEnd-Python-Pytest-POO-SOLID&border_color=007ACC&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=007ACC" />
-  </a>
-  <a href="https://github.com/ioott/BackEnd-CRUD-API-Typescript-MongoDb-POO">
-    <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=ioott&repo=BackEnd-CRUD-API-Typescript-MongoDb-POO&border_color=007ACC&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=007ACC" />
-  </a>
-</p>
-<br/>
+## 💻  Alguns Projetos:
+<details>
+  <summary><strong>Crawling</strong></summary>
+    <ul>
+        <li><a href="https://github.com/ioott/BackEnd-Python-Pymongo-Crawling-Mongodb">
+            BackEnd | Python | Pymongo | Crawling | Mongodb
+        </li>
+    </ul>
+</details>
+
+<details>
+  <summary><strong>Python</strong></summary>
+    <ul>
+        <li><a href="https://github.com/ioott/BackEnd-Python-Pymongo-Crawling-Mongodb">
+            BackEnd | Python | Pymongo | Crawling | Mongodb
+        </li>
+        <li><a href="https://github.com/ioott/cw">
+            BackEnd | Python | MySQL
+        </li>
+        <li><a href="https://github.com/ioott/BackEnd-Python-Pytest-Job-Insights">
+            BackEnd | Python
+        </li>
+        <li><a href="https://github.com/ioott/BackEnd-Python-Pytest-POO-SOLID">
+            BackEnd | Python
+        </li>
+    </ul>
+</details>
+
+<details>
+  <summary><strong>Node.js</strong></summary>
+    <ul>
+        <li><a href="https://github.com/ioott/Full-Stack-Node-Express-ORM-React-Jest/tree/main/back-end/src/database">
+            Full Stack | Node.js | MySQL | React | HTML | CSS
+        </li>
+        <li><a href="https://github.com/ioott/FullStack-CRUD-Typescript-ORM-TDD-POO/tree/main/app/frontend/src/pages">
+            Full Stack | Node.js | Typescript | MySQL | React | HTML | CSS
+        </li>
+        <li><a href="https://github.com/ioott/BackEnd-CRUD-API-Typescript-MongoDb-POO">
+            BackEnd | Node.js | Typescript | Mongodb
+        </li>
+        <li><a href="https://github.com/ioott/BackEnd-Typescript-API-Node-Express-MySql">
+            BackEnd | Node.js | Typescript | MySQL
+        </li>
+        <li><a href="https://github.com/ioott/Store-Manager-API-REST">
+            BackEnd | Node.js | MySQL
+        </li>
+        <li><a href="https://github.com/ioott/API-de-blogs-Node-ORM-JWT-Sequelize">
+            BackEnd | Node.js | MySQL
+        </li>
+    </ul>
+</details>
+
+<details>
+  <summary><strong>Typescript</strong></summary>
+    <ul>
+        <li><a href="https://github.com/ioott/FullStack-CRUD-Typescript-ORM-TDD-POO/tree/main/app/frontend/src/pages">
+            Full Stack | Node.js | Typescript | MySQL | React | HTML | CSS
+        </li>
+        <li><a href="https://github.com/ioott/BackEnd-Typescript-API-Node-Express-MySql">
+            BackEnd | Node.js | Typescript | MySQL
+        </li>
+        <li><a href="https://github.com/ioott/BackEnd-CRUD-API-Typescript-MongoDb-POO">
+            BackEnd | Node.js | Typescript | Mongodb
+        </li>
+    </ul>
+</details>
+
+<details>
+  <summary><strong>MySQL</strong></summary>
+    <ul>
+        <li><a href="https://github.com/ioott/Full-Stack-Node-Express-ORM-React-Jest/tree/main/back-end/src/database">
+            Full Stack | Node.js | MySQL | React | HTML | CSS
+        </li>
+        <li><a href="https://github.com/ioott/FullStack-CRUD-Typescript-ORM-TDD-POO/tree/main/app/frontend/src/pages">
+            Full Stack | Node.js | Typescript | MySQL | React | HTML | CSS
+        </li>
+        <li><a href="https://github.com/ioott/BackEnd-Typescript-API-Node-Express-MySql">
+            BackEnd | Node.js | Typescript | MySQL
+        </li>
+        <li><a href="https://github.com/ioott/Store-Manager-API-REST">
+            BackEnd | Node.js | MySQL
+        </li>
+        <li><a href="https://github.com/ioott/API-de-blogs-Node-ORM-JWT-Sequelize">
+            BackEnd | Node.js | MySQL
+        </li>
+        <li><a href="https://github.com/ioott/cw">
+            BackEnd | Python | MySQL
+        </li>
+    </ul>
+</details>
+
+<details>
+  <summary><strong>MongoDb</strong></summary>
+    <ul>
+        <li><a href="https://github.com/ioott/BackEnd-Python-Pymongo-Crawling-Mongodb">
+            BackEnd | Python | Pymongo | Crawling | Mongodb
+        </li>
+        <li><a href="https://github.com/ioott/BackEnd-CRUD-API-Typescript-MongoDb-POO">
+            BackEnd | Node.js | Typescript | Mongodb
+        </li>
+    </ul>
+</details>
+
+<details>
+  <summary><strong>React</strong></summary>
+    <ul>
+        <li><a href="https://github.com/ioott/Full-Stack-Node-Express-ORM-React-Jest/tree/main/back-end/src/database">
+            Full Stack | Node.js | MySQL | React | HTML | CSS
+        </li>
+        <li><a href="https://github.com/ioott/FullStack-CRUD-Typescript-ORM-TDD-POO/tree/main/app/frontend/src/pages">
+            Full Stack | Node.js | | Typescript | MySQL | React | HTML | CSS
+        </li>
+        <li><a href="https://github.com/ioott/FrontEnd-JS-React-Redux-CSS-HTML-API">
+            FrontEnd | React | HTML | CSS
+        </li>
+    </ul>
+</details>
 
 ##
 

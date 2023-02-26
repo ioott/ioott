@@ -99,6 +99,9 @@
 <details>
   <summary><strong>Python</strong></summary>
     <ul>
+        <li><a href="https://github.com/ioott/Python-Complexidade-Recursividade-Modelos-de-Algoritmos-de-Busca_e_Ordenacao">
+            BackEnd | Python | Análise de Complexidade | Recursividade | Modelos de Algoritmos de Busca e Ordenação
+        </li>
         <li><a href="https://github.com/ioott/BackEnd-Python-Pymongo-Crawling-Mongodb">
             BackEnd | Python | Pymongo | Crawling | Mongodb
         </li>

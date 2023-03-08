@@ -106,7 +106,7 @@
             BackEnd | Python | Pymongo | Crawling | Mongodb
         </li>
         <li><a href="https://github.com/ioott/Python-Pilhas-Deque-LinkedLists">
-            BackEnd | Python | Pilhas | Deque | LinkedLists
+            BackEnd | Python | Pilhas | Filas | Deques | LinkedLists
         </li>
         <li><a href="https://github.com/ioott/cw">
             BackEnd | Python | MySQL

@@ -111,6 +111,9 @@
         <li><a href="https://github.com/ioott/cw">
             BackEnd | Python | MySQL
         </li>
+        <li><a href="https://github.com/ioott/BackEnd-Python-Controle-de-Pedidos-do-Restaurante">
+            BackEnd | Python
+        </li>
         <li><a href="https://github.com/ioott/BackEnd-Python-Pytest-Job-Insights">
             BackEnd | Python
         </li>

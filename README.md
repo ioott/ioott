@@ -3,64 +3,147 @@
 <br/>
 
 <div align="center" >
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3500&pause=1000&color=007ACC&width=750&height=60&lines=Hello!+I'm+Vania!+Nice+to+meet+you!" alt="Open to work" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3500&pause=1000&color=007ACC&width=750&height=60&lines=Hello!+I'm+Vania!+{Dev.BackEnd}" alt="Open to work" /></a>
 </div>
 <br/>
-
-## 💪  Stacks:
-  
+<br/>  
 <div align="center">
     <p>
-        <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=vscode" />
+        <a>
+            <img 
+                 src="https://skillicons.dev/icons?i=vscode"
+                 alt="vscode"
+                 width="40"
+                 height="40"
+            />
         </a>
-        <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=html" />
+        <a>
+            <img 
+                 src="https://skillicons.dev/icons?i=html" 
+                 alt="html"
+                 width="40"
+                 height="40"
+            />
         </a>
-        <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=css" />
+        <a>
+            <img 
+                 src="https://skillicons.dev/icons?i=css" 
+                 alt="css"
+                 width="40"
+                 height="40"
+            />
         </a>
-        <a href="https://github.com">
-            <img src="https://skillicons.dev/icons?i=styledcomponents" />
+        <a>
+            <img 
+                 src="https://skillicons.dev/icons?i=styledcomponents" 
+                 alt="styledcomponents"
+                 width="40"
+                 height="40"
+            />
         </a>
-        <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=react" />
+        <a>
+            <img 
+                 src="https://skillicons.dev/icons?i=react" 
+                 alt="react"
+                 width="40"
+                 height="40"
+            />
         </a>
-        <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=redux" />
+        <a>
+            <img 
+                 src="https://skillicons.dev/icons?i=redux" 
+                 alt="redux"
+                 width="40"
+                 height="40"
+            />
         </a>
-        <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=js" />
+        <a>
+            <img 
+                 src="https://skillicons.dev/icons?i=js" 
+                 alt="javascript"
+                 width="40"
+                 height="40"
+            />
         </a>
-        <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=jest" />
+        <a>
+            <img 
+                 src="https://skillicons.dev/icons?i=jest" 
+                 alt="jest"
+                 width="40"
+                 height="40"
+            />
         </a>
-        <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=nodejs" />
+        <a>
+            <img 
+                 src="https://skillicons.dev/icons?i=nodejs" 
+                 alt="nodejs"
+                 width="40"
+                 height="40"
+            />
         </a>
-        <a href="https://aws.amazon.com/pt/">
-            <img src="https://skillicons.dev/icons?i=express" />
+        <a>
+            <img 
+                 src="https://skillicons.dev/icons?i=express" 
+                 alt="express"
+                 width="40"
+                 height="40"
+            />
         </a>
-        <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=ts" />
+        <a>
+            <img 
+                 src="https://skillicons.dev/icons?i=ts" 
+                 alt="typescript"
+                 width="40"
+                 height="40"
+            />
         </a>
-        <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=selenium" />
+        <a>
+            <img 
+                 src="https://skillicons.dev/icons?i=selenium" 
+                 alt="selenium"
+                 width="40"
+                 height="40"
+            />
         </a>
-        <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=docker" />
+        <a>
+            <img 
+                 src="https://skillicons.dev/icons?i=docker" 
+                 alt="docker"
+                 width="40"
+                 height="40"
+            />
         </a>
-        <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=mysql" />
+        <a>
+            <img 
+                 src="https://skillicons.dev/icons?i=mysql" 
+                 alt="mysql"
+                 width="40"
+                 height="40"
+            />
         </a>
-        <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=sequelize" />
+        <a>
+            <img 
+                 src="https://skillicons.dev/icons?i=sequelize" 
+                 alt="sequelize"
+                 width="40"
+                 height="40"
+            />
         </a>
-        <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=mongodb" />
+        <a>
+            <img 
+                 src="https://skillicons.dev/icons?i=mongodb" 
+                 alt="mongodb"
+                 width="40"
+                 height="40"
+            />
         </a>
-        <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=fastapi" />
+        <a>
+            <img 
+                 src="https://skillicons.dev/icons?i=fastapi" 
+                 alt="fastapi"
+                 width="40"
+                 height="40"
+            />
         </a>
     </p>
 </div>
@@ -70,23 +153,85 @@
 
 <div align="center">
     <p>
-        <a href="https://www.python.org">
-            <img src="https://skillicons.dev/icons?i=py" />
+        <a>
+            <img 
+                 src="https://skillicons.dev/icons?i=python" 
+                 alt="python"
+                 width="40"
+                 height="40"
+            />
         </a>
-        <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=java" />
+        <a>
+            <img 
+                 src="https://skillicons.dev/icons?i=java" 
+                 alt="java"
+                 width="40"
+                 height="40"                 
+            />
         </a>
-        <a href="https://www.python.org">
-            <img src="https://skillicons.dev/icons?i=jquery" />
+        <a>
+            <img 
+                 src="https://skillicons.dev/icons?i=angular" 
+                 alt="angular"
+                 width="40"
+                 height="40"                 
+                 />
         </a>
-        <a href="https://docs.djangoproject.com/en/4.1/">
-            <img src="https://skillicons.dev/icons?i=angular" />
+        <a>
+            <img 
+                 src="https://skillicons.dev/icons?i=nestjs" 
+                 alt="nestjs"
+                 width="40"
+                 height="40"                 
+            />
+        </a>
+        <a>
+            <img 
+                 src="https://skillicons.dev/icons?i=prisma" 
+                 alt="prisma"
+                 width="40"
+                 height="40"                 
+            />
         </a>
     </p>
 </div>
 <br/>
 
-## 💻  Alguns Projetos:
+## 💻  Projetos Em Andamento:
+<div align="center">
+  <table>
+   <tr align="center">
+    <td valign="top">
+      <h2>Findy</h2>
+      <p><a href="https://github.com/Findy-U/findy.backend">Repositório</a></p>
+      <p>Nest.js, Prisma, SQLite, Postegrees</p>
+      <a href="https://github.com/Findy-U">
+          <img 
+               width="100px" 
+               src="https://avatars.githubusercontent.com/u/124849780?s=200&v=4" 
+               alt="Repositório Findy"
+          />
+      </a>
+    </td>
+    <td valign="top">
+      <h2>Anotaí</h2>
+      <p><a href="https://github.com/anota-ai-org/backend">Repositório</a></p>
+      <p>Next.js, Prisma, Postegrees</p>
+      <a href="https://github.com/anota-ai-org">
+          <img 
+               width="100px" 
+               src="https://github.com/ioott/ioott/assets/98191041/9d622659-a0f9-4ef9-b019-449acfcd33f9" 
+               alt="Repositório Anotaí"
+          />
+      </a>
+    </td>
+   </tr>
+  </table>
+      
+</div>
+<br/>
+        
+## 💻  Projetos Realizados:
 <details>
   <summary><strong>Crawling</strong></summary>
     <ul>

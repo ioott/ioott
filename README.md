@@ -51,14 +51,6 @@
         </a>
         <a>
             <img 
-                 src="https://skillicons.dev/icons?i=redux" 
-                 alt="redux"
-                 width="40"
-                 height="40"
-            />
-        </a>
-        <a>
-            <img 
                  src="https://skillicons.dev/icons?i=js" 
                  alt="javascript"
                  width="40"
@@ -93,14 +85,6 @@
             <img 
                  src="https://skillicons.dev/icons?i=ts" 
                  alt="typescript"
-                 width="40"
-                 height="40"
-            />
-        </a>
-        <a>
-            <img 
-                 src="https://skillicons.dev/icons?i=selenium" 
-                 alt="selenium"
                  width="40"
                  height="40"
             />
@@ -155,14 +139,6 @@
     <p>
         <a>
             <img 
-                 src="https://skillicons.dev/icons?i=python" 
-                 alt="python"
-                 width="40"
-                 height="40"
-            />
-        </a>
-        <a>
-            <img 
                  src="https://skillicons.dev/icons?i=java" 
                  alt="java"
                  width="40"
@@ -176,22 +152,6 @@
                  width="40"
                  height="40"                 
                  />
-        </a>
-        <a>
-            <img 
-                 src="https://skillicons.dev/icons?i=nestjs" 
-                 alt="nestjs"
-                 width="40"
-                 height="40"                 
-            />
-        </a>
-        <a>
-            <img 
-                 src="https://skillicons.dev/icons?i=prisma" 
-                 alt="prisma"
-                 width="40"
-                 height="40"                 
-            />
         </a>
     </p>
 </div>

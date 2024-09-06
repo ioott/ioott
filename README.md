@@ -107,8 +107,24 @@
         </a>
         <a>
             <img 
+                 src="https://skillicons.dev/icons?i=prisma" 
+                 alt="prisma"
+                 width="40"
+                 height="40"
+            />
+        </a>
+        <a>
+            <img 
                  src="https://skillicons.dev/icons?i=mongodb" 
                  alt="mongodb"
+                 width="40"
+                 height="40"
+            />
+        </a>
+        <a>
+            <img 
+                 src="https://skillicons.dev/icons?i=mongoose" 
+                 alt="mongoose"
                  width="40"
                  height="40"
             />
@@ -123,8 +139,8 @@
     <p>
         <a>
             <img 
-                 src="https://skillicons.dev/icons?i=go" 
-                 alt="go"
+                 src="https://skillicons.dev/icons?i=c#" 
+                 alt="C#"
                  width="40"
                  height="40"                 
             />
@@ -173,6 +189,9 @@
 <details>
   <summary><strong>Node.js</strong></summary>
     <ul>
+        <li><a href="https://github.com/ioott/fullstack-node-ts-prisma-react>
+            Full Stack | Node.js | Typescript | SQLite | Docker | Prisma | Jest | React | HTML | CSS
+        </li>
         <li><a href="https://github.com/ioott/Full-Stack-Node-Express-ORM-React-Jest/tree/main/back-end/src/database">
             Full Stack | Node.js | MySQL | React | HTML | CSS
         </li>
@@ -197,6 +216,9 @@
 <details>
   <summary><strong>Typescript</strong></summary>
     <ul>
+        <li><a href="https://github.com/ioott/fullstack-node-ts-prisma-react>
+            Full Stack | Node.js | Typescript | SQLite | Docker | Prisma | Jest | React | HTML | CSS
+        </li>
         <li><a href="https://github.com/ioott/FullStack-CRUD-Typescript-ORM-TDD-POO/tree/main/app/frontend/src/pages">
             Full Stack | Node.js | Typescript | MySQL | React | HTML | CSS
         </li>
@@ -212,6 +234,9 @@
 <details>
   <summary><strong>MySQL</strong></summary>
     <ul>
+        <li><a href="https://github.com/ioott/fullstack-node-ts-prisma-react>
+            Full Stack | Node.js | Typescript | SQLite | Docker | Prisma | Jest | React | HTML | CSS
+        </li>
         <li><a href="https://github.com/ioott/Full-Stack-Node-Express-ORM-React-Jest/tree/main/back-end/src/database">
             Full Stack | Node.js | MySQL | React | HTML | CSS
         </li>

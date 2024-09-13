@@ -232,6 +232,15 @@
 </details>
 
 <details>
+  <summary><strong>C# / .NET</strong></summary>
+    <ul>
+        <li><a href="https://github.com/ioott/fullstack-node-ts-prisma-react">
+           Projeto 1 do Curso
+        </li>
+    </ul>
+</details>
+
+<details>
   <summary><strong>MySQL</strong></summary>
     <ul>
         <li><a href="https://github.com/ioott/fullstack-node-ts-prisma-react>

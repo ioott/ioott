@@ -234,8 +234,11 @@
 <details>
   <summary><strong>C# / .NET</strong></summary>
     <ul>
-        <li><a href="https://github.com/ioott/fullstack-node-ts-prisma-react">
+        <li><a href="https://github.com/ioott/CSharp-Curso-Projeto1-App-para-Instituicao-Financeira">
            Projeto 1 do Curso
+        </li>
+        <li><a href="https://github.com/ioott/CSharp-Curso-Projeto2-App-para-Locadora-de-Veiculos">
+           Projeto 2 do Curso
         </li>
     </ul>
 </details>

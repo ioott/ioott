@@ -3,7 +3,7 @@
 <br/>
 
 <div align="center" >
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3500&pause=1000&color=007ACC&width=750&height=60&lines=Hello!+I'm+Vania!+{Dev.BackEnd}" alt="Open to work" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3500&pause=1000&color=007ACC&width=750&height=60&lines=Hello!+I'm+Vania!+{Dev.FullStack}"/></a>
 </div>
 <br/>
 <br/>  
@@ -107,6 +107,14 @@
         </a>
         <a>
             <img 
+                 src="https://skillicons.dev/icons?i=python" 
+                 alt="python"
+                 width="40"
+                 height="40"
+            />
+        </a>
+        <a>
+            <img 
                  src="https://skillicons.dev/icons?i=prisma" 
                  alt="prisma"
                  width="40"
@@ -121,18 +129,11 @@
                  height="40"
             />
         </a>
-        <a>
-            <img 
-                 src="https://skillicons.dev/icons?i=mongoose" 
-                 alt="mongoose"
-                 width="40"
-                 height="40"
-            />
-        </a>
     </p>
 </div>
 <br/>
 
+<!--
 ## 🌱  Estudando:
 
 <div align="center">
@@ -148,8 +149,21 @@
     </p>
 </div>
 <br/>
+-->
         
 ## 💻  Projetos Realizados:
+<details>
+  <summary><strong>IA</strong></summary>
+    <ul>
+        <li><a href="https://github.com/ioott/bookmatch-ai-python-geminiAPI">
+            BackEnd | Frontend | Python | Flask | Docker | IA | GeminiAPI
+        </li>
+            <p>👉 <a href="https://huggingface.co/spaces/vioott/BookMatchAI-Python-GeminiAPI">
+                Teste agora no Hugging Face Spaces
+            </p>
+    </ul>
+</details>
+            
 <details>
   <summary><strong>Crawling</strong></summary>
     <ul>
@@ -162,6 +176,12 @@
 <details>
   <summary><strong>Python</strong></summary>
     <ul>
+        <li><a href="https://github.com/ioott/bookmatch-ai-python-geminiAPI">
+            BackEnd | Frontend | Python | Flask | Docker | IA | GeminiAPI
+        </li>
+            <p>👉 <a href="https://huggingface.co/spaces/vioott/BookMatchAI-Python-GeminiAPI">
+                Teste agora no Hugging Face Spaces
+            </p>
         <li><a href="https://github.com/ioott/Python-Complexidade-Recursividade-Modelos-de-Algoritmos-de-Busca_e_Ordenacao">
             BackEnd | Python | Análise de Complexidade | Recursividade | Modelos de Algoritmos de Busca e Ordenação
         </li>

@@ -321,23 +321,6 @@
 </details>
 
 ##
-
-<br/>
-<br/>
-
-<div align="center">
-  <span>
-     <a href="https://github.com/ioott">
-     <img width='49%' height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ioott&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-  </span>
-  <span>
-     <a href="https://www.megamensagens.com/upload/4212.gif">
-     <img width='29%' height="230em" src="https://www.megamensagens.com/upload/4212.gif">
-  </span>
-</div>
-<br/>
-
-##
   
 <br/>
 <div align="center">

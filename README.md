@@ -11,6 +11,14 @@
     <p>
         <a>
             <img 
+                 src="https://skillicons.dev/icons?i=gemini"
+                 alt="Gemini CLI"
+                 width="40"
+                 height="40"
+            />
+        </a>
+        <a>
+            <img 
                  src="https://skillicons.dev/icons?i=vscode"
                  alt="vscode"
                  width="40"
@@ -155,6 +163,9 @@
 <details>
   <summary><strong>IA</strong></summary>
     <ul>
+        <li><a href="https://github.com/ioott/InsightPop">
+            BackEnd | Frontend | Mobile | Python | FastAPI | Docker | Mongodb | React Native | GeminiAPI
+        </li>
         <li><a href="https://github.com/ioott/bookmatch-ai-python-geminiAPI">
             BackEnd | Frontend | Python | Flask | Docker | IA | GeminiAPI
         </li>
@@ -176,6 +187,9 @@
 <details>
   <summary><strong>Python</strong></summary>
     <ul>
+        <li><a href="https://github.com/ioott/InsightPop">
+            BackEnd | Frontend | Mobile | Python | FastAPI | Docker | Mongodb | React Native | GeminiAPI
+        </li>
         <li><a href="https://github.com/ioott/bookmatch-ai-python-geminiAPI">
             BackEnd | Frontend | Python | Flask | Docker | IA | GeminiAPI
         </li>
@@ -296,6 +310,9 @@
 <details>
   <summary><strong>MongoDb</strong></summary>
     <ul>
+        <li><a href="https://github.com/ioott/InsightPop">
+            BackEnd | Frontend | Mobile | Python | FastAPI | Docker | Mongodb | React Native | GeminiAPI
+        </li>
         <li><a href="https://github.com/ioott/BackEnd-Python-Pymongo-Crawling-Mongodb">
             BackEnd | Python | Pymongo | Crawling | Mongodb
         </li>
@@ -305,6 +322,15 @@
     </ul>
 </details>
 
+<details>
+  <summary><strong>React</strong></summary>
+    <ul>
+        <li><a href="https://github.com/ioott/InsightPop">
+            BackEnd | Frontend | Mobile | Python | FastAPI | Docker | Mongodb | React Native | GeminiAPI
+        </li>
+    </ul>
+</details>
+            
 <details>
   <summary><strong>React</strong></summary>
     <ul>

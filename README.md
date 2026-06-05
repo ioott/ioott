@@ -19,6 +19,14 @@
         </a>
         <a>
             <img 
+                 src="https://skillicons.dev/icons?i=n8n"
+                 alt="N8N"
+                 width="40"
+                 height="40"
+            />
+        </a>
+        <a>
+            <img 
                  src="https://skillicons.dev/icons?i=vscode"
                  alt="vscode"
                  width="40"
@@ -165,6 +173,9 @@
     <ul>
         <li><a href="https://github.com/ioott/InsightPop">
             BackEnd | Frontend | Mobile | Python | FastAPI | Docker | Mongodb | React Native | GeminiAPI
+        </li>
+        <li><a href="https://github.com/ioott/buffet-whatsapp-n8n">
+            N8N | Node.js | LLM | Pinecone | PostgreSQL | CallMeBot | Docker
         </li>
         <li><a href="https://github.com/ioott/bookmatch-ai-python-geminiAPI">
             BackEnd | Frontend | Python | Flask | Docker | IA | GeminiAPI

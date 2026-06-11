@@ -166,7 +166,8 @@
 </div>
 <br/>
 -->
-        
+## 🤍 [Portfólio feito com Lovable](https://portfolio-vania-ioott.lovable.app/?lang=pt)
+
 ## 💻  Projetos Realizados:
 <details>
   <summary><strong>IA</strong></summary>

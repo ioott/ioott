@@ -1,0 +1,12 @@
+name: Update Stats
+on:
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch: {}
+permissions: {contents: write}
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate stats images
+        uses: jstrieb/github-stats@master
+        with: {username: ioott, access_token: "${{ secrets.ACCESS_TOKEN }}"}

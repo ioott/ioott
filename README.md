@@ -33,14 +33,6 @@
 
 <br/>
 
-<div align="center">
-
-<img height="165" src="https://raw.githubusercontent.com/ioott/ioott/main/generated/overview.svg" alt="GitHub Stats"/>
-<img height="165" src="https://raw.githubusercontent.com/ioott/ioott/main/generated/languages.svg" alt="Top Languages"/>
-</div>
-
-<br/>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/ioott/ioott/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation"/>
 </p>

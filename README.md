@@ -1,8 +1,8 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=007ACC&center=true&width=750&height=50&lines=Hi%2C+I'm+Vania!;AI-Assisted+Full+Stack+Developer;Python+%7C+FastAPI+%7C+React+Native+%7C+n8n" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=007ACC&center=true&width=750&height=50&lines=Hi%2C+I'm+Vania!;AI-Assisted+Full+Stack+Developer;IT+Support;Customer+Experience" alt="Typing SVG" /></a>
 
-**AI-Assisted Full Stack Developer** - Suporte Tecnico N2 - Customer Experience
+**AI-Assisted Full Stack Developer | Suporte Técnico | Customer Experience<br/>**
 20 anos em atendimento B2B/B2C - Hoje com IA no centro de tudo que construo.
 
 </div>
@@ -49,7 +49,7 @@
 ![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![Gemini CLI](https://img.shields.io/badge/Gemini_CLI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 
-Assistente de inteligencia ativa que transforma fluxos de informacao desestruturada (WhatsApp, e-mails, prints, PDFs e audios) em dados organizados e acoes futuras, com onboarding adaptativo por IA. Backend em Python/FastAPI e MongoDB (Docker), app mobile em React Native, inteligencia artificial com Google Gemini API.
+Assistente Pessoal que extrai Dados e Insights através de IA e transforma fluxos de informação desestruturada (WhatsApp, e-mails, prints, PDFs e audios) em dados organizados e ações futuras, com onboarding adaptativo por IA. Backend em Python/FastAPI e MongoDB (Docker), app mobile em React Native, inteligência artificial com Google Gemini API.
 
 ### [Automated-Log-Triager](https://github.com/ioott/Automated-Log-Triager)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -60,7 +60,7 @@ Assistente de inteligencia ativa que transforma fluxos de informacao desestrutur
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-3B4B5C?style=flat-square)
 
-Agente de diagnostico para SRE: pipeline Python assincrono que faz a triagem automatica de logs de falha, enriquece o contexto via RAG (ChromaDB) e usa Google Gemini API para diagnosticar problemas e propor planos de acao, com mascaramento de dados sensiveis (PII) e dashboard em tempo real.
+Agente de diagnóstico para SRE: pipeline Python assíncrono que faz a triagem automática de logs de falha, enriquece o contexto via RAG (ChromaDB) e usa Google Gemini API para diagnosticar problemas e propor planos de ação, com mascaramento de dados sensíveis (PII) e dashboard em tempo real.
 
 ### [buffet-whatsapp-n8n](https://github.com/ioott/buffet-whatsapp-n8n)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
@@ -70,13 +70,13 @@ Agente de diagnostico para SRE: pipeline Python assincrono que faz a triagem aut
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
 
-Agente de vendas com IA e orquestrador de CRM orientado a eventos, construido com n8n, Google Gemini API, Pinecone (RAG) e PostgreSQL, para automatizar a cotacao de eventos e o funil de reengajamento via WhatsApp.
+Agente de vendas com IA e orquestrador de CRM orientado a eventos, construído com n8n, Google Gemini API, Pinecone (RAG) e PostgreSQL, para automatizar a cotação de eventos e o funil de reengajamento via WhatsApp.
 
 <br/>
 
-## Portfolio
+## Portfólio
 
-[Portfolio feito com Lovable](https://portfolio-vania-ioott.lovable.app/?lang=pt)
+[Portfólio feito com Lovable](https://portfolio-vania-ioott.lovable.app/)
 
 <br/>
 
@@ -94,13 +94,16 @@ Agente de vendas com IA e orquestrador de CRM orientado a eventos, construido co
 <br/>
 
 <details>
-<summary>Exercicios de formacao (historico)</summary>
-Projetos de estudo e exercicios de curso, mantidos aqui por transparencia de trajetoria:
+<summary>Exercícios de formação (histórico)</summary>
+ <br/>Projetos de estudo e exercícios de curso, mantidos aqui por transparência de trajetória: <br/>
 
-**Python:** [Python-Complexidade-Recursividade-Modelos-de-Algoritmos-de-Busca_e_Ordenacao](https://github.com/ioott/Python-Complexidade-Recursividade-Modelos-de-Algoritmos-de-Busca_e_Ordenacao) | [BackEnd-Python-Pymongo-Crawling-Mongodb](https://github.com/ioott/BackEnd-Python-Pymongo-Crawling-Mongodb) | [Python-Pilhas-Deque-LinkedLists](https://github.com/ioott/Python-Pilhas-Deque-LinkedLists) | [cw](https://github.com/ioott/cw) (Python, MySQL) | [BackEnd-Python-Controle-de-Pedidos-do-Restaurante](https://github.com/ioott/BackEnd-Python-Controle-de-Pedidos-do-Restaurante) | [BackEnd-Python-Pytest-Job-Insights](https://github.com/ioott/BackEnd-Python-Pytest-Job-Insights) | [BackEnd-Python-Pytest-POO-SOLID](https://github.com/ioott/BackEnd-Python-Pytest-POO-SOLID) | [bookmatch-ai-python-geminiAPI](https://github.com/ioott/bookmatch-ai-python-geminiAPI) (Flask, Gemini API, demo: [Hugging Face](https://huggingface.co/spaces/vioott/BookMatchAI-Python-GeminiAPI))
+**Python:** <br/>
+[Python-Complexidade-Recursividade-Modelos-de-Algoritmos-de-Busca_e_Ordenacao](https://github.com/ioott/Python-Complexidade-Recursividade-Modelos-de-Algoritmos-de-Busca_e_Ordenacao) | [BackEnd-Python-Pymongo-Crawling-Mongodb](https://github.com/ioott/BackEnd-Python-Pymongo-Crawling-Mongodb) | [Python-Pilhas-Deque-LinkedLists](https://github.com/ioott/Python-Pilhas-Deque-LinkedLists) | [Python, MySQL](https://github.com/ioott/cw) | [BackEnd-Python-Controle-de-Pedidos-do-Restaurante](https://github.com/ioott/BackEnd-Python-Controle-de-Pedidos-do-Restaurante) | [BackEnd-Python-Pytest-Job-Insights](https://github.com/ioott/BackEnd-Python-Pytest-Job-Insights) | [BackEnd-Python-Pytest-POO-SOLID](https://github.com/ioott/BackEnd-Python-Pytest-POO-SOLID) | [bookmatch-ai-python-geminiAPI](https://github.com/ioott/bookmatch-ai-python-geminiAPI) | [Hugging Face - Flask, Gemini API, demo](https://huggingface.co/spaces/vioott/BookMatchAI-Python-GeminiAPI))
 
-**Node.js / TypeScript:** [fullstack-node-ts-prisma-react](https://github.com/ioott/fullstack-node-ts-prisma-react) | [Full-Stack-Node-Express-ORM-React-Jest](https://github.com/ioott/Full-Stack-Node-Express-ORM-React-Jest) | [FullStack-CRUD-Typescript-ORM-TDD-POO](https://github.com/ioott/FullStack-CRUD-Typescript-ORM-TDD-POO) | [BackEnd-CRUD-API-Typescript-MongoDb-POO](https://github.com/ioott/BackEnd-CRUD-API-Typescript-MongoDb-POO) | [BackEnd-Typescript-API-Node-Express-MySql](https://github.com/ioott/BackEnd-Typescript-API-Node-Express-MySql) | [Store-Manager-API-REST](https://github.com/ioott/Store-Manager-API-REST) | [API-de-blogs-Node-ORM-JWT-Sequelize](https://github.com/ioott/API-de-blogs-Node-ORM-JWT-Sequelize) | [FrontEnd-JS-React-Redux-CSS-HTML-API](https://github.com/ioott/FrontEnd-JS-React-Redux-CSS-HTML-API)
+**Node.js / TypeScript:** <br/> 
+[fullstack-node-ts-prisma-react](https://github.com/ioott/fullstack-node-ts-prisma-react) | [Full-Stack-Node-Express-ORM-React-Jest](https://github.com/ioott/Full-Stack-Node-Express-ORM-React-Jest) | [FullStack-CRUD-Typescript-ORM-TDD-POO](https://github.com/ioott/FullStack-CRUD-Typescript-ORM-TDD-POO) | [BackEnd-CRUD-API-Typescript-MongoDb-POO](https://github.com/ioott/BackEnd-CRUD-API-Typescript-MongoDb-POO) | [BackEnd-Typescript-API-Node-Express-MySql](https://github.com/ioott/BackEnd-Typescript-API-Node-Express-MySql) | [Store-Manager-API-REST](https://github.com/ioott/Store-Manager-API-REST) | [API-de-blogs-Node-ORM-JWT-Sequelize](https://github.com/ioott/API-de-blogs-Node-ORM-JWT-Sequelize) | [FrontEnd-JS-React-Redux-CSS-HTML-API](https://github.com/ioott/FrontEnd-JS-React-Redux-CSS-HTML-API)
 
-**C# / .NET:** [CSharp-Curso-Projeto1-App-para-Instituicao-Financeira](https://github.com/ioott/CSharp-Curso-Projeto1-App-para-Instituicao-Financeira) | [CSharp-Curso-Projeto2-App-para-Locadora-de-Veiculos](https://github.com/ioott/CSharp-Curso-Projeto2-App-para-Locadora-de-Veiculos)
+**C# / .NET:**  <br/>
+[CSharp-Curso-Projeto1-App-para-Instituicao-Financeira](https://github.com/ioott/CSharp-Curso-Projeto1-App-para-Instituicao-Financeira) | [CSharp-Curso-Projeto2-App-para-Locadora-de-Veiculos](https://github.com/ioott/CSharp-Curso-Projeto2-App-para-Locadora-de-Veiculos)
 
 </details>

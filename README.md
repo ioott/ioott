@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vania%20Ioott&fontSize=48&animation=fadeIn&fontAlignY=35&desc=AI-Assisted%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
+</p>
+
 <div align="center">
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=007ACC&center=true&width=750&height=50&lines=Hi%2C+I'm+Vania!;AI-Assisted+Full+Stack+Developer;IT+Support;Customer+Experience" alt="Typing SVG" /></a>
@@ -31,10 +35,15 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ioott&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ioott&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-
+<img height="165" src="https://raw.githubusercontent.com/ioott/ioott/main/generated/overview.svg" alt="GitHub Stats"/>
+<img height="165" src="https://raw.githubusercontent.com/ioott/ioott/main/generated/languages.svg" alt="Top Languages"/>
 </div>
+
+<br/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ioott/ioott/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation"/>
+</p>
 
 <br/>
 
@@ -76,7 +85,13 @@ Agente de vendas com IA e orquestrador de CRM orientado a eventos, construído c
 
 ## Portfólio
 
-[Portfólio feito com Lovable](https://portfolio-vania-ioott.lovable.app/)
+<p align="center">
+  <a href="https://portfolio-vania-ioott.lovable.app/">
+      <img src="https://api.microlink.io/?url=https%3A%2F%2Fportfolio-vania-ioott.lovable.app%2F&screenshot=true&meta=false&embed=screenshot.url&waitFor=3000&viewport.width=1280&viewport.height=800" width="80%" alt="Preview do portfólio"/>
+  </a>
+  <br/>
+  <sub>Clique na imagem para abrir o portfólio completo</sub>
+</p>
 
 <br/>
 
